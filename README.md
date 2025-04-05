@@ -1,1 +1,1 @@
-this is face recongnition project
+this is face recongnition project.
